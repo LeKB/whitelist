@@ -47,3 +47,6 @@
 @@||gfwsl.geforce.com^$important
 @@||viki.io^$important
 @@||local^$important
+@@||events.gfe.nvidia.com^$important
+@@||gfwsl.geforce.com^$important
+@@||ota-downloads.nvidia.com^$important
